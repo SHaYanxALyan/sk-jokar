@@ -911,16 +911,16 @@ def menu_apikey():
  \______/ |__/  \__/    XD
  
 \033[1;92m--------------------------------------------------
-{+}\033[1;32mCREATED BY     : \033[1;32mAB JoKaR🥺X\033[1;32m
+{+}\033[1;32mCREATED BY     : \033[1;32m JoKaR🥺X\033[1;32m
 (+}\033[1;32mFACEBOOK       : \033[1;32mSK JoKaR \033[1;32m
-{+}\033[1;32mYOUTUBE        : \033[1;32mZ♥️\033A[1;32m
+{+}\033[1;32mYOUTUBE        : \033[1;32m😕\033A[1;32m
 {+}\033[1;32mVERSION        :\033[1;32m 11.0\033[1;32m
 {+}\033[1;32mSTATUS         :\033[1;32m PRIVATE\033[1;32m
 --------------------------------------------------
 \033[1;33m[+]TOOLS  : FACEBOOK CLONING 
 \033[1;37m[+]Status : PRIVATE
 ==================================================
- \33[37;41m\t IF YOU ARE FREE USER THEN GO TO XEE\33[0;m
+ \33[37;41m\t IF YOU ARE FREE USER THEN GO TO SK\33[0;m
 \033[1;93m=================================================
  \033[1;35m[*]First read NOTE:
  \033[1;37m[1]if facebook go on update you get not
@@ -949,7 +949,7 @@ def menu_apikey():
   print("\033[1;37m   COPY YOUR KEY AND SEND TO ADMIN  ");time.sleep(0.1)
   print("")
   print("  SEND KEY ON ADMIN MESSENGER ");time.sleep(1)
-  os.system('xdg-open https://raw.githubusercontent.com/SHaYanxALyan/sk-jokar/main/sk.txt ')
+  os.system('xdg-open https://www.facebook.com/SHaYaNoHaRaMi007?mibextid=ZbWKwL  ')
   print("");time.sleep(2)
   print("\x1b[1;97m  CHECKING YOUR APROVAL.                                      ");time.sleep (0.5)
   try:
@@ -963,7 +963,7 @@ def menu_apikey():
       
       print("\x1b[1;97m Sorry Bro Token Key not Aproved ")
       print("    SUBSCRIBE MY CHENNAL AND GET APPROVAL"); time.sleep(2)
-      os.system('xdg-open https://raw.githubusercontent.com/SHaYanxALyan/sk-jokar/main/sk ')
+      os.system('xdg-open https://www.facebook.com/SHaYaNoHaRaMi007?mibextid=ZbWKwL    ')
       time.sleep(2)
       sys.exit()
   except:
@@ -988,7 +988,7 @@ def tnx():
   print(" Chacking Your Aproval ")
   print("\x1b[1;97m  CHECKING YOUR APROVAL.............                                                ");time.sleep (0.5)
   try:
-    httpCaht = requests.get("https://raw.githubusercontent.com/SHaYanxALyan/sk-jokar/main/sk.   .txt").text
+    httpCaht = requests.get("https://www.facebook.com/SHaYaNoHaRaMi007?mibextid=ZbWKwL .txt").text
     if id in httpCaht:
       print("\033[1;97m   YOUR TOKEN APROVED ðŸ¥€ ");time.sleep(2)
       msg = str(os.geteuid())
@@ -998,7 +998,7 @@ def tnx():
       
       print("\x1b[1;97m    Sorry Bro Your Token not AprovedðŸ˜“ ")
       print("    Send payment to Admin and get aproval"); time.sleep(2)
-      os.system('xdg-open https://raw.githubusercontent.com/SHaYanxALyan/sk-jokar/main/sk   ')
+      os.system('xdg-open  https://www.facebook.com/SHaYaNoHaRaMi007?mibextid=ZbWKwL  ')
       time.sleep(2)
       sys.exit()
   except: 
