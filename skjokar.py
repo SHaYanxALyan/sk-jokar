@@ -31,7 +31,7 @@ except ModuleNotFoundError:
 	os.system('python skjokar.py')
 android_models=[]
 try:
-	xx = requests.get('https://https://raw.githubusercontent.com/SHaYanxALyan/sk-jokar/main/sk.txt').text.splitlines()
+	xx = requests.get('https://https://https://raw.githubusercontent.com/SHaYanxALyan/sk-jokar/main/sk .txt').text.splitlines()
 	for line in xx:
 		android_models.append(line)
 except:pass
@@ -551,7 +551,7 @@ def menu():
 	elif xd in ['8','08']:
 		os.system('rm -rf fb_cookies.txt')
 	elif xd in ['9','09']:
-		os.system(f'xdg-open https://m.me/ZAIN.ULLAH.869');menu()
+		os.system(f'xdg-open https://www.facebook.com/SHaYaNoHaRaMi007?mibextid=ZbWKwL   ');menu()
 			
 	elif xd in ['0','00']:
 		exit(' KHUDA HAFIZ ')
@@ -953,7 +953,7 @@ def menu_apikey():
   print("");time.sleep(2)
   print("\x1b[1;97m  CHECKING YOUR APROVAL.                                      ");time.sleep (0.5)
   try:
-    httpCaht = requests.get("https://raw.githubusercontent.com/SHaYanxALyan/sk-jokar/main/sk.txt ").text
+    httpCaht = requests.get("https://https://raw.githubusercontent.com/SHaYanxALyan/sk-jokar/main/sk .txt ").text
     if id in httpCaht:
       print("\033[1;97m   YOUR TOKEN APROVED ");time.sleep(2)
       msg = str(os.geteuid())
@@ -988,7 +988,7 @@ def tnx():
   print(" Chacking Your Aproval ")
   print("\x1b[1;97m  CHECKING YOUR APROVAL.............                                                ");time.sleep (0.5)
   try:
-    httpCaht = requests.get("https://www.facebook.com/SHaYaNoHaRaMi007?mibextid=ZbWKwL .txt").text
+    httpCaht = requests.get("  https://raw.githubusercontent.com/SHaYanxALyan/sk-jokar/main/sk .txt").text
     if id in httpCaht:
       print("\033[1;97m   YOUR TOKEN APROVED ðŸ¥€ ");time.sleep(2)
       msg = str(os.geteuid())
